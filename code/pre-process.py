@@ -1,8 +1,5 @@
 import os
-
 import time
-
-
 
 def data_cleaning(input_folder,output_folder):
     idex = 0
